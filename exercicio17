@@ -1,0 +1,4 @@
+amigos = {'ilidio', 'diego', 'haendel'}
+
+for nome in amigos:
+    print(f'ola {nome}, como você esta?')
